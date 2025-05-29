@@ -36,7 +36,7 @@
 
 ## 🌟 制作物
 
-### [food shuffle](https://github.com/haruna1256/food-shuffle)
+### [food shuffle](https://github.com/Doremifa-donuts/foodshuffle)
 - **概要**: すれ違いを通じて"おすすめのお店"を共有し合う、レビュー信頼性重視のグルメ情報アプリ
 - **役割**: 企画立案、プレゼンテーション、リーダー、UI設計、Flutterによるフロントエンド開発
 - **技術**: Flutter, Google Maps API
