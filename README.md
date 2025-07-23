@@ -81,6 +81,10 @@
 </p>
 
 ---
+### トロフィー
+![trophy](https://github-profile-trophy.vercel.app/?username=haruna1256&theme=onedark)(https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <p align="center">
   技術と企画の力で、ユーザーの課題を解決するアプリケーションを創り出します。
